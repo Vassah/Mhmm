@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mhmm</string>
+    <string name="title_section1">Who?</string>
+    <string name="title_section2">Who wrote this&#8230;</string>
+    <string name="title_section3">What her again?</string>
+    <string name="title_section4">A THING</string>
+    <string name="title_section5">The Point</string>
+    <string name="title_section6">How Long It Takes</string>
+    <string name="title_section7">Until Next Time</string>
+    <string name="title_end">You can leave now&#8320;</string>
+    <string name="action_settings">Settings</string>
+    <string name="jenny_alt">That&#8217;sa Jenny-u!</string>
+    <string name="stephen_alt">That would be Stephen.</string>
+    <string name="page_1">This is a story about this person:</string>
+    <string name="page_2">And, like, occasionally this person:</string>
+    <string name="page_3">But mostly this person:</string>
+    <string name="page_3_2">Ain\'t she adorable?</string>
+    <string name="page_4">QUICK CLICK THE BUTTON</string>
+    <string name="button_text">CLICK ME</string>
+    <string name="page_4_2">Just kidding it doesn\'t do anything</string>
+    <string name="page_5">But yeah this isn\'t actually a story because development time got way out of hand. No, this is more just a really drawn out long way of saying \"I love you\" because it turns out that doesn\'t really take that long to say. About 3 seconds really.</string>
+    <string name="page_6">Seriously look, that\'s how long it takes:</string>
+    <string name="page_6_2">It\'s probably actually faster than that. Kinda short, huh? Seems kinda wrong doesn\'t it? Totally incommensurate with the value of the thing I should think.</string>
+    <string name="page_7">So let\'s not do that. Let\'s try and do it for at least this long:</string> 
+    <string name="page_end">THE END</string>
+</resources>
